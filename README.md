@@ -4,4 +4,4 @@
 * **2** [การแปลงภาพ และการค้นหาตัวอักษร (Text Detection)](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_02.ipynb)
 * **3** [การค้นหาตัวอักษรด้วยโปรแกรม keras-ocr](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_03.ipynb)
 * **4** [การค้นหาตัวอักษรด้วยโปรแกรม tesseract](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_04.ipynb)
-
+* **5** [การค้นหาวัตถุด้วย Library ของ imageAI](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_05.ipynb)
