@@ -17,3 +17,5 @@
 
 
 ![dip](https://it-aryacollege.ac.in/wp-content/uploads/2018/07/Digital-Image-Processing.jpg | width=70)
+
+<img src="https://it-aryacollege.ac.in/wp-content/uploads/2018/07/Digital-Image-Processing.jpg" width="70%">
