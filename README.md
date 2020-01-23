@@ -15,7 +15,4 @@
 | **7** | [การติดตั้งโปรแกรม LabelImg เพื่อสร้าง annotation ให้กับรูปภาพ](https://github.com/tzutalin/labelImg)      |
 
 
-
-![dip](https://it-aryacollege.ac.in/wp-content/uploads/2018/07/Digital-Image-Processing.jpg | width=70)
-
 <img src="https://it-aryacollege.ac.in/wp-content/uploads/2018/07/Digital-Image-Processing.jpg" width="70%">
