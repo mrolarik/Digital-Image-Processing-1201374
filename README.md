@@ -7,3 +7,4 @@
 * **4-2** [ตัวอย่างโปรแกรมการค้นหาข้อความจากรูปภาพ - Search text in image](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_04_02.ipynb)
 * **5** [การค้นหาวัตถุด้วย Library ของ imageAI](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_05.ipynb)
 * **6** [การสร้าง Object Detection ด้วย Library ของ imageAI](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_06.ipynb)
+* **7** [การติดตั้งโปรแกรม LabelImg เพื่อสร้าง annotation ให้กับรูปภาพ](https://github.com/tzutalin/labelImg)
