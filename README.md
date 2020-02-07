@@ -11,7 +11,7 @@
 | 4.1 | [การค้นหาตัวอักษรในรูปภาพ](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_04.ipynb)     |
 | 4.2 | [โปรแกรมการค้นหาข้อความจากรูปภาพ (Search text in image)](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_04_02.ipynb)     |
 | **5** | การค้นหาวัตถุ (Object Detection) ด้วย Library ของ imageAI |
-| 5.1 | [การค้นหาวัตถุด้วย](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_05.ipynb)     |
+| 5.1 | [การค้นหาวัตถุ](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_05.ipynb)     |
 | 5.2 | [การสร้าง Object Detection](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_06.ipynb)      |
 | 5.3 | [การติดตั้งโปรแกรม LabelImg เพื่อสร้าง annotation ให้กับรูปภาพ](https://github.com/tzutalin/labelImg)      |
 
