@@ -14,5 +14,5 @@
 | 5.1 | [การค้นหาวัตถุด้วย Library ของ imageAI](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_05.ipynb)     |
 | 5.2 | [การสร้าง Object Detection](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_06.ipynb)      |
 | 5.3 | [การติดตั้งโปรแกรม LabelImg เพื่อสร้าง annotation ให้กับรูปภาพ](https://github.com/tzutalin/labelImg)      |
-| 5.4 | [การค้นหาวัตถุด้วยวิธี Single Shot MultiBox Detector - SSD](https://github.com/tzutalin/labelImg)      |
+| 5.4 | [การค้นหาวัตถุด้วยวิธี Single Shot MultiBox Detector - SSD](https://github.com/mrolarik/Digital-Image-Processing-1201374/blob/master/DIP_05_02.ipynb)      |
 
